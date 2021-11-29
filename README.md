@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to CDSC Static site root
 
 You can use the [editor on GitHub](https://github.com/WSU-CDSC/wsu-cdsc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
